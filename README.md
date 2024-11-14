@@ -8,4 +8,6 @@ There are two separates servers running: React Development server ([localhost:30
 
 ## Business Logic
 
-Codesplain allows to do the search (e.g. search for React) over all the public repositories that are hosted on [GitHub](https://github.com). When user clicks on the repository from the list, he's taken to the code editor showing all the files and folders inside the repository. User can open any code file, highlight any code (e.g. function function expression) and click **_Explain Code_** button. User will get a popup with explanation of that code coming from code analyzing AI. The project also has some authentication stuff tied to it.
+Codesplain allows to do the search (e.g. search for React) over all the public repositories that are hosted on [GitHub](https://github.com). When user clicks on the repository from the list, he's taken to the code editor showing all the files and folders inside the repository. User can open any code file, highlight any code (e.g. function function expression) and click **_Explain Code_** button. User will get a popup with explanation of that code coming from code analyzing AI. The project also has some authentication stuff tied to it:
+
+![app overview](./images/app-overview.png)
